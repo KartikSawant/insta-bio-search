@@ -1,0 +1,16 @@
+.search{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+input{
+    padding: 2px;
+}
+.users{
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 1px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
